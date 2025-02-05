@@ -79,3 +79,6 @@ Le script vous guidera tout au long du processus, notamment pour la configuratio
 ## Conclusion
 
 Ce script permet d'automatiser l'installation de Docker et de le configurer en fonction de votre environnement réseau. Il facilite grandement l'installation sur des machines avec des configurations de proxy.
+
+
+© 2025 - Script d'installation Docker
